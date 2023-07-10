@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\bin\Debug\CitasMedicas.exe.config
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\bin\Debug\CitasMedicas.exe
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\bin\Debug\CitasMedicas.pdb
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\bin\Debug\CitasMedicas.xml
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.FrmPacientes.resources
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.Resources.resources
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.exe
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.xml
+C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.pdb
