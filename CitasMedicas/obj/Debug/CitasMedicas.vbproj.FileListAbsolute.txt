@@ -10,3 +10,15 @@ C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\Ci
 C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.exe
 C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.xml
 C:\Users\Toshiba\Desktop\Garita-Carlos-T1\CitasMedicas\CitasMedicas\obj\Debug\CitasMedicas.pdb
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.FrmPacientes.resources
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.Resources.resources
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.exe
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.xml
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\obj\Debug\CitasMedicas.pdb
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\bin\Debug\CitasMedicas.exe.config
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\bin\Debug\CitasMedicas.exe
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\bin\Debug\CitasMedicas.pdb
+C:\Users\cgari\OneDrive\Proyectos\medical_appointments\CitasMedicas\bin\Debug\CitasMedicas.xml
